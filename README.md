@@ -7,4 +7,5 @@ Welcome to the **Online Shop** website, this website is online wiht the learning
 - **Linux**
 - **Docker**
 
-
+Docker Image 
+docker pull aadiguru/online-shop-app
